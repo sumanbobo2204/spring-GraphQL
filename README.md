@@ -1,1 +1,1 @@
-# various spring GraphQl based use cases
+# Various Spring GraphQL based usecases
